@@ -4,7 +4,10 @@ An Calculator Object made by C++
 按照程序所提示输入所需信息即可。
 
 ### 使用方法
-下载后，在目标文件目录下按住`Shift`右键，在菜单中点击`用Powershell打开`的按钮
+下载后，在目标文件目录下按住`Shift`**右键**，在菜单中点击`用Powershell打开`的按钮，如下图所示：
+![打开方式](https://raw.githubusercontent.com/SpongeMinecart/Calculator/master/Pic/Powershell.png)
+在弹出的窗口里输入`.\Calculator.exe`，如下图：
+![打开方式2]（(https://raw.githubusercontent.com/SpongeMinecart/Calculator/master/Pic/用Powershell打开.png）
 
 ### 版本号0.1
 修正了部分错误
