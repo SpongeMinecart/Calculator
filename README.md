@@ -21,7 +21,7 @@
 
 打开应用程序会发生 *缺少libstdc++-6.dll* 的错误
 
-###### 解决方法
+##### 解决方法
 
 下载[libstdc++-6.dll](https://github.com/SpongeMinecart/Calculator/raw/master/Pic/libstdc%2B%2B-6.dll)，下载完毕后复制此dll到`C:\Windows\system32`即可。
 
