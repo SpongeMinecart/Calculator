@@ -11,8 +11,8 @@ using namespace std;
 
 int main () {
     
-    int a = 0 ;
-    int b = 0 ;
+    long long a = 0 ;
+    long long b = 0 ;
     int way = 0 ;
     int jg = 0 ;
     
