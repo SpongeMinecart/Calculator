@@ -1,5 +1,5 @@
 # Calculator
-An Calculator Object made by C++
+
 要使用，在Windows Powershell中定位到程序位置，再使用Powershell打开此程序。
 按照程序所提示输入所需信息即可。
 
