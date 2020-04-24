@@ -17,6 +17,15 @@
 ### 注意
 不可使用cmd打开！必须使用Powershell！
 
+### 已知问题
+
+打开应用程序会发生 *缺少libstdc++-6.dll* 的错误
+
+###### 解决方法
+
+下载[libstdc++-6.dll](https://github.com/SpongeMinecart/Calculator/raw/master/Pic/libstdc%2B%2B-6.dll)，下载完毕后复制此dll到`C:\Windows\system32`即可。
+
+
 ### 版本号0.1
 修正了部分错误
 *如有疑问，请联系hmkx.linx@qq.com*
